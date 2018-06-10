@@ -3,6 +3,11 @@
 Mängu eesmärk on võimalikult kiiresti ekraanile tekkivaid sõnu ära trükkida. Sõnad on võetud [Eesti Keele Instituudi lehelt](http://www.eki.ee/tarkvara/wordlist/) – [lemmad2013](http://www.eki.ee/tarkvara/wordlist/lemmad2013.txt). Aluseks tuleb võtta kood **[eesrakenduste-arendamine-2018k/klahvimine](https://github.com/eesrakenduste-arendamine-2018k/klahvimine)**. 
 
 ### Tähtpäev 26.03.2018 23:59
+Autor: Sander Lukas
+Kirjeldus: Mängu põhimõtteks on ühe minuti jooksul trükkida nii palju sõnu, kui mängija suudab. Vale tähe vajutamisel sõna muutub punaseks ja kõlab klassikaline error'i kõla. Skoori arvutamine käib nii, et iga trükitud sõna pealt saab 10 punkti, iga vale klahvi vajutamisel -1 punkt ning kui on viis sõna järjest ilma vigadeta trükitud saab lisaks +25 punkti.
+
+[logo]: https://github.com/sanderlukas/2.ea-kodutoo/blob/master/voog1.JPG "Voog"
+[logo]: https://github.com/sanderlukas/2.ea-kodutoo/blob/master/voog2.JPG "Voog"
 
 ## Nõuded
 
