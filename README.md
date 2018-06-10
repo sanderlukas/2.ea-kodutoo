@@ -4,10 +4,11 @@ Mängu eesmärk on võimalikult kiiresti ekraanile tekkivaid sõnu ära trükkid
 
 ### Tähtpäev 26.03.2018 23:59
 Autor: Sander Lukas
+
 Kirjeldus: Mängu põhimõtteks on ühe minuti jooksul trükkida nii palju sõnu, kui mängija suudab. Vale tähe vajutamisel sõna muutub punaseks ja kõlab klassikaline error'i kõla. Skoori arvutamine käib nii, et iga trükitud sõna pealt saab 10 punkti, iga vale klahvi vajutamisel -1 punkt ning kui on viis sõna järjest ilma vigadeta trükitud saab lisaks +25 punkti.
 
-![]: voog1.JPG
-![]: voog2.JPG
+![logo]: voog1.JPG
+![logo]: voog2.JPG
 
 ## Nõuded
 
